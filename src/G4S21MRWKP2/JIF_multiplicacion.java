@@ -7,7 +7,7 @@ package G4S21MRWKP2;
 
 /**
  *
- * @author alexg
+ * @author sonia
  */
 public class JIF_multiplicacion extends javax.swing.JInternalFrame {
 

@@ -7,7 +7,7 @@ package G4S21MRWKP2;
 
 /**
  *
- * @author alexg
+ * @author sonia
  */
 public class JIF_division extends javax.swing.JInternalFrame {
 
